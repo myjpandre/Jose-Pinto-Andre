@@ -20,4 +20,5 @@ Atualmente, estou a finalizar um corpo de quatro ensaios teóricos que desafiam 
 ---
 ## Roadmap de Investigação (2026)- **Janeiro:** Finalização da modelagem matemática do ensaio sobre Glioblastoma.- **Fevereiro:** Submissão dos pre-prints ao *arXiv* (q-bio e physics.soc-ph).- **Março:** Início da revisão por pares aberta e submissão a journals.
 ---
-## ContactoInteressado em colaborar ou discutir estes rascunhos?- josepintoandre@aluno.unilab.edu.br- https://orcid.org/0009-0001-2964-5609.
+## Contacto
+**Interessado em colaborar ou discutir estes rascunhos?- josepintoandre@aluno.unilab.edu.br- https://orcid.org/0009-0001-2964-5609.**
