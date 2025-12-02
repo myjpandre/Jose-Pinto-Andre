@@ -1,4 +1,5 @@
-# O Seu Nome### Investigador em Biologia Teórica & Sistemas Complexos*Afiliado a Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB).*
+# José Pinto André
+### Investigador em Biologia Teórica & Sistemas Complexos*Afiliado a Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB).*
 ---
 ## O Laboratório
 O meu trabalho foca-se na **arquitetura da informação em sistemas complexos**. Utilizo ferramentas da Física Estatística, Teoria dos Jogos e Cibernética para investigar padrões ismórficos entre biologia, cosmologia e estruturas sociais.
